@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Fotsi Yann (YEFF190)
 
-I'm passionate about programming and building practical software that solves real problems — especially for Cameroon 🇨🇲.
+I'm passionate about programming and building practical software that solves real problems — especially for Cameroon🇨🇲. I know we are capable of changing Africa and the world as a whole. Take a look at my different projects.
 
 ## 🚀 Featured Projects
 
