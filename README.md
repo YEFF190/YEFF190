@@ -25,6 +25,7 @@ A classic Doodle Jump game recreation built in **C++**.
 - **Frameworks:** JavaFX, Flutter
 - **Databases:** SQLite, PostgreSQL, Redis
 - **Tools:** Git, GitHub, VS Code, Eclipse, Android Studio, Postman
+- **API Platform/Services:** Africa's Talking
 
 ## 📫 Get in Touch
 - GitHub: [@YEFF190](https://github.com/YEFF190)
