@@ -18,6 +18,7 @@ A classic Doodle Jump game recreation built in **C++**.
 ## 🤝 Collaborations
 - [FarmLink Intelligence](https://github.com/FAMEBOX237-code/farmlink-intelligence) — Collaborated on an agricultural intelligence platform
 - [SkillMatch JIT Engines](https://github.com/FAMEBOX237-code/skillmatch-JIT-engines) — Contributed to a skill-matching engine project
+- [Zulip](https://github.com/zulip/zulip) — Contributing to the open-source team chat platform; [PR #40148](https://github.com/zulip/zulip/pull/40148) adds convenience features (auto-fill, drag-and-drop, multi-file support) to custom emoji upload
 
 ## 🛠️ Tech Stack
 - **Languages:** Python, Java, Dart, C++
